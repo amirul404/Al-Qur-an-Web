@@ -1,5 +1,5 @@
 <h3>Demo site: </h3>
-<a href="https://al-quran-ku.web.app">Here</a></h3>
+<center><a href="https://amirul404.github.io/Al-Qur-an-Web/">Here</a></h3></center>
 <br><br>
 
 
